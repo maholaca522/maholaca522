@@ -1,0 +1,134 @@
+2/12/2021: PHIÊN BẢN 2.3.1
+- Fix Phó bản
+- Fix xdame tlt
+- Fix Tong Tian
+
+2/12/2021: PHIÊN BẢN 2.3.0
+- Fix jx2huyenthoai
+- Fix auto đăng nhập
+- Fix thịt nướng
+- Thêm xdame nga mi đàn
+- Thêm Liên chiêu, ngắt chiêu di chuyển fix lại cho chuẩn.( ngắt như người thật, dùng cho mấy sv chặn, ae test miễn phí có lỗi báo mình)
+
+27/11/2021: PHIÊN BẢN 2.2.9.3
+- Fix tự mua ngự các, cần mua trước 1 lần
+- Fix ngắt skill di chuyển sau ngắt
+
+24/11/2021: PHIÊN BẢN 2.2.9.2
+- Fix Ngắt Skill
+- Fix lọc đồ Hào hiệp
+
+21/11/2021: PHIÊN BẢN 2.2.9.1
+- Update Phiên bản mới cho VinaGame
+- Fix Bị chặn auto ở 1 số Game (vl2chinhtong...), cần tải lại Auto mới, xóa bản cũ
+- Fix Ngắt Skill
+- Fix Combo, thêm 1 số combo khác, chi tiết nhấn cài đặt để xem
+- Fix auto đăng nhập
+- Fix Tìm đánh mục tiêu: thêm chiêu cho Hiệp độc và VDB
+- Fix xdame gây tắt auto
+
+29/10/2021: PHIÊN BẢN 2.2.8.5
+- Fix Thương hội
+- Fix Trồng cây
+- Fix Tẩy Kim Xà
+- Fix Phiên bản Vinagame
+- Fix THịt Nướng
+- Tăng tốc lick tàng kiếm
+
+8/10/2021: PHIÊN BẢN 2.2.8
+- Fix ko hiển thị nhân vật
+
+7/10/2021: PHIÊN BẢN 2.2.7
+- Fix Trồng cây
+- Fix Theo sau
+- Fix Dame mặc định
+
+28/9/2021: PHIÊN BẢN 2.2.6.1
+- Fix Lọc Đồ tự mua TTD sv mới
+- Fix lỗi đăng nhập
+
+16/9/2021: PHIÊN BẢN 2.2.3
+- Fix lỗi Khó đăng nhập ở 1 số máy tính (ai còn thì nt admin)
+- Cập nhật phiên bản VNG
+
+15/9/2021: PHIÊN BẢN 2.2.2
+- Fix lỗi nhập captcha
+
+13/9/2021: PHIÊN BẢN 2.2.1
+- Fix lỗi máy chủ bị ddos
+
+9/9/2021: PHIÊN BẢN 2.1.6.2
+  - Fix Lỗi JX2 Anh Em: chạy update auto
+     + Chép file autox.dll trong ChepDeVaoGameXJ2AnhEm vào thư mục game
+     + Vào Auto bằng Seed_Fix_JX2AnhEm.exe trong thư mục auto
+Video: https://www.facebook.com/SeedAutoJX2/posts/1131291737396878
+
+8/9/2021: PHIÊN BẢN 2.1.6
+- Fix Lỗi JX2 Anh Em: dành cho ai rành máy tính
+  + Xóa 2 file msvcp43.dll và msvcp81.dll trong thư muc game. file bị nó ẩn thì bật nó hiện lên
+  + Chạy game = so2game.exe
+  + Vào Auto bằng AnhEm.exe trong thư mục auto
+  + Hạn chế update game
+- Fix Thương Hội
+- Fix Thái Nhất THáp
+- Fix Thay đồ VNG
+
+3/9/2021: PHIÊN BẢN 2.1.5
+- Cập nhật phiên bản Vianagame và jxSabay.kh
+- Fix lỗi luyện MT nhanh
+- Fix Buff theo tên đc chọn thi Hiệp độc
+- Fix Theo sau Lag hình ảnh (nếu còn báo admin)
+- Fix Thái Nhất Tháp
+
+31/8/2021: PHIÊN BẢN 2.1.4
+- Translate Filter Equipment for English
+- Fix lỗi phó bản kẹt góc lag
+- Fix Lọc đồ jx2kiemhiep.net 
+- Fix lỗi báo danh tàng kiếm nhầm dòng
+
+27/8/2021: PHIÊN BẢN 2.1.3
+- Fix Đi phó bản theo Map cài sẵn
+- Fix bán item
+- Fix Tẩy kim xà 2
+- Fix Auto Train Quái theo phạm vi. dùng để train trong map nhỏ như Hắc Phong động
+- Fix jx2 Anh Em
+
+24/8/2021: PHIÊN BẢN 2.1.1
+- Fix lỗi Ngắt skill
+
+22/8/2021: PHIÊN BẢN 2.1.0
+- Fix lỗi ko sử dụng trên máy ảo
+- Fix mài dame ở v2
+
+20/8/2021: PHIÊN BẢN 2.0.9.4
+- Fix lỗi báo danh tàng kiếm nhầm dòng
+- Fix lỗi bị chặn auto gây thoát Game jx2anhem
+CHÚ Ý: XIN THƯA BÀ CON CÔ BÁC LÀ KO ĐC UPDATE GAME, VÀO GAME = SO2GAME. NHẮC LẦN THỨ N RỒI MÀ SAO CỨ CÃI HOÀI. NÓ CHẶN LẠI NÓI
+
+17/8/2021: PHIÊN BẢN 2.0.9.1
+- Fix lỗi bị chặn auto gây thoát Game jx2anhem
+CHÚ Ý: KO CHẠY AUTO UPDATE CỦA GAME, VÀO GAME BẰNG SO2GAME
+CHỈ CẬP NHẬT NÓ KHI CÓ NHỮNG BẢN CẬP NHẬT LỚN
+
+17/8/2021: PHIÊN BẢN 2.0.9
+- Fix báo danh chiến trường
+- Fix lỗi bị chặn auto gây thoát Game jx2anhem
+- Fix lọc đồ JX2 VNG PC
+
+
+16/8/2021: PHIÊN BẢN 2.0.8
+- Fix lỗi thoát auto
+
+14/8/2021: PHIÊN BẢN 2.0.7
+- Fix Thương hội
+- Fix Vào ải TNC volam2xua
+- Fix Vào báo danh chiến trường
+- Fix lỗi bị chặn auto ở JX2VN.net(jx2mienphi)
+- Fix Buff NMK đứng yên khi buf theo tên
+
+7/8/2021: PHIÊN BẢN 2.0.6
+- Fix lỗi Báo danh Chiến trường
+- Fix Phục hồi
+- Fix lỗi tắt Check nhân vật vẫn sử dụng tính năng
+- Fix Buff NMK
+- Fix Prajna Certificate for English Version
